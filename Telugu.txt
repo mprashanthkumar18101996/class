@@ -1,2 +1,6 @@
 I learn Telugu.
+<<<<<<< HEAD
 I will go to school.
+=======
+I will go to university.
+>>>>>>> university
